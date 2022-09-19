@@ -2,6 +2,8 @@
 
 ## Usage
 
+Use as Zsh alias.
+
 ```
 $ reverse 192.0.2.1 4444
 # receive
